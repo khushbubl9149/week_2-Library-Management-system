@@ -1,0 +1,17 @@
+{
+    "books": [
+        {
+            "book_id": 101,
+            "title": "Python Programming",
+            "author": "Mark Lutz",
+            "available": true
+        }
+    ],
+    "members": [
+        {
+            "member_id": 102,
+            "name": "Khushbu Poddar",
+            "course": "Data Science"
+        }
+    ]
+}
